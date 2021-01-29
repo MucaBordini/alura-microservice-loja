@@ -13,7 +13,7 @@
 	<artifactId>loja</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>loja</name>
-	<description>Workshop Spring Boot com mongodb</description>
+	<description>Workshop Spring Boot microservices</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
